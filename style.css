@@ -1,0 +1,12 @@
+.all_box{
+    border: 1px solid black;
+    margin: 10px;
+    display: flex;
+    margin-top: 43%;
+    
+}
+.one_box{
+    border: 1px solid black;
+    margin: 10px;
+    width: 50px;
+}
